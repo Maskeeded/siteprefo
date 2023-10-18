@@ -1,7 +1,37 @@
 h1 {
-
     color:red;
-    font-weight: bolder;
+}
+
+body {
+    background: linear-gradient(to right, black 0%, #6e6053 100%);
+    color:white;
+}
 
 
+
+p a {
+    color: orange;
+}
+
+/* Commentaire */
+li {
+    font-family:cursive;
+    font-style:italic;
+}
+
+ol li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+img {
+    border: 3px solid white;
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.retour {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px;
 }
